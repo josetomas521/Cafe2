@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+#t1
+{
+	color:red;
+	text-align:center;
+}
+body{
+	background-color:#ffe4c4;
+}
+#t1
+{
+	color:brown;
+	text-align:center;
+	
+}
+
+#p1
+{
+	color:red;
+}
+#p2
+{
+	color:red;
+}
+#p3
+{
+	color:red;
+}
+#p4
+{
+	color:red;
+}
+body {
+	background-color:#ffe4c4;
+	
+}
+.izquierda{
+	text-align:left;
+}
+.centro{
+	text-align:center;
+}
+.derecha{
+	text-align: right;
+}
